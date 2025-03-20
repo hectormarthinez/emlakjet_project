@@ -15,7 +15,7 @@ This project is designed to apply my data science skills to a real world, busine
 
 ## Data Sources
 
-- Apartments data: https://www.emlakjet.com/kiralik-konut/istanbul/emlakcidan/
+- Apartments data: https://www.emlakjet.com/kiralik-konut/emlakcidan/
 - GeoJSON files for creating province and district-level maps visualizing data: https://data.humdata.org/dataset/geoboundaries-admin-boundaries-for-turkey
 
 ## Technologies used
@@ -61,4 +61,5 @@ This project is designed to apply my data science skills to a real world, busine
 
 ## Author
 Héctor Martínez
+
 LinkedIn: https://www.linkedin.com/in/hectormarthinez/
