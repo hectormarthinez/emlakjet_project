@@ -1,0 +1,27 @@
+# Jupyter Notebook environment
+jupyter
+
+# Web scraping and concurrency
+html
+requests
+BeautifulSoup
+urllib3
+tqdm
+
+# Data manipulation and analysis
+pandas
+numpy
+unidecode
+openpyxl
+
+# Data visualization
+matplotlib
+seaborn
+geopandas
+
+# Machine Learning
+category_encoders
+scikit-learn
+lightgbm
+catboost
+optuna
