@@ -61,4 +61,5 @@ This project is designed to apply my data science skills to a real world, busine
 
 ## Author
 Héctor Martínez
+
 LinkedIn: https://www.linkedin.com/in/hectormarthinez/
